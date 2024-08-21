@@ -1,8 +1,6 @@
 
 # UpMate SDK for Swift
 
-## [Get your access token now, for free!](https://upmate-app.web.app/)
-
 The UpMate SDK allows you to easily manage and display update prompts in your React Native app. With simple integration, you can ensure that your users are always up-to-date with the latest version of your app.
 
 
@@ -19,6 +17,7 @@ To add the UpMate SDK to your Xcode project using Swift Package Manager (SPM), f
 
 
 ## Initialization
+### [Get your access token now, for free!](https://upmate-app.web.app/)
 
 Before using the SDK, initialize it with your API key:
 
