@@ -30,6 +30,8 @@ let upmate = UpMate.init(apiKey: "your-api-key-here")
 
 Checks if an update prompt needs to be shown. Displays the prompt only if a new update is available and necessary based on your criteria.
 
+Mainly it checks if showing an update is needed depending on the version of the user. It's only displayed once per user.
+
 ```swift
 upmate.displayLastUpdateIfNeeded()
 ```
