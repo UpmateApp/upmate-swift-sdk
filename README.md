@@ -3,19 +3,18 @@
 
 The UpMate SDK allows you to easily manage and display update prompts in your React Native app. With simple integration, you can ensure that your users are always up-to-date with the latest version of your app.
 
-## Installation
 
-To install the UpMate SDK, use npm or yarn:
 
-```bash
-npm install upmate-sdk
-```
+### Installing with Swift Package Manager (SPM)
 
-or
+To add the UpMate SDK to your Xcode project using Swift Package Manager (SPM), follow these steps:
 
-```bash
-yarn add upmate-sdk
-```
+1. Open your project in Xcode.
+2. Go to `File` > `Add Packages...`.
+3. In the search bar, enter the repository URL: `https://github.com/UpmateApp/upmate-swift-sdk`
+4. Select the package and set the version rules according to your needs.
+5. Click `Add Package` to integrate it into your project.
+
 
 ## Initialization
 
