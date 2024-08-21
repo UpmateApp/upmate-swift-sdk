@@ -1,7 +1,7 @@
 
 # UpMate SDK for Swift
 
-The UpMate SDK allows you to easily manage and display update prompts in your React Native app. With simple integration, you can ensure that your users are always up-to-date with the latest version of your app.
+The UpMate SDK allows you to easily manage and display update in-app mesage. With simple integration, you can ensure that your users are always up-to-date with the newest features of the latest version of your app.
 
 
 
